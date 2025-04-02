@@ -1,0 +1,8 @@
+pytelegrambotapi==4.26.0
+groq==0.20.0
+flask==3.1.0
+flask-sqlalchemy==3.1.1
+gunicorn==23.0.0
+gtts==2.5.4
+requests==2.32.3
+python-dotenv==1.0.0
