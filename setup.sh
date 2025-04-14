@@ -12,8 +12,8 @@ EOL
 
 # Create a .env file for local testing
 cat > .env << EOL
-TELEGRAM_BOT_TOKEN=7854629659:AAFQTAzWeYQPEdjngqK78A3pLp73QQPqTic
-GROQ_API_KEY=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
+TELEGRAM_BOT_TOKEN=
+GROQ_API_KEY=
 EOL
 
 # Create a start script that loads environment variables
